@@ -1,0 +1,28 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .title {
+    color: #646cff;
+    margin-bottom: 2rem;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .link {
+    margin: 0 1rem;
+    color: #646cff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .link:hover {
+    color: #5242b5;
+  }
+  
